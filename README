@@ -1,5 +1,5 @@
 PURPOSE
 =============
-The purpose of this script is to add a registry entry for a given program in tis case putty.exe and have start on boot up.
+The purpose of this script is to add a registry entry for a given program in this case putty.exe and have start on boot up.
 It also copies the specified file/executable to the documents folder.
 
